@@ -1,4 +1,6 @@
 # UltraSonicTheremine
+## YOUTUBE CHANNElL
+https://www.youtube.com/channel/UC_yQgHDU_DJ27OzaISRNPQQ/
 ## Solidworks
 ### Renders
 All soliworks files shoud be found above. The total assembly contains everything that we used in our project.
